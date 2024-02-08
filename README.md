@@ -1,3 +1,5 @@
+![](/images/SportsBridgeLogo.png)
+
 # 💪 운동 커뮤니티 사이트
 - SportsBridge : "Sports"와 "Bridge"의 조합으로, 다양한 스포츠와 운동을 연결하고 이어주는 역할을 하는 커뮤니티를 나타냅니다.
 
